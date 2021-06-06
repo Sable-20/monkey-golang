@@ -1,6 +1,6 @@
 package ast
 
-import "../token"
+import "github.com/Sable-20/monkey-golang/token"
 
 type Boolean struct {
 	Token 		token.Token
