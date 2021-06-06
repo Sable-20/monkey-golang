@@ -1,6 +1,6 @@
 package lexer
 
-import "github.com/Sable-20/token"
+import "github.com/Sable-20/monkey-golang/token"
 
 type Lexer struct {
 	input			[]rune
