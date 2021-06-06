@@ -3,7 +3,7 @@ package ast
 import (
 	"bytes"
 
-	"../token"
+	"github.com/Sable-20/monkey-golang/token"
 )
 
 // ConstStatement - Name holds the identifier of the binding and Value for the expression
