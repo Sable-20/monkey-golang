@@ -1,6 +1,6 @@
 package lexer
 
-import "../token"
+import "github.com/Sable-20/token"
 
 type Lexer struct {
 	input			[]rune
