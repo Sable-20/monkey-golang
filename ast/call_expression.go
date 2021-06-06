@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"strings"
 
-	"github.com/Sable-20/monkey-golang/token"
+	"../token"
 )
 
 // CallExpression - holds the token, the function expression, and its arguments ([]Expression).

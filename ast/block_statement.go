@@ -3,7 +3,7 @@ package ast
 import (
 	"bytes"
 
-	"github.com/Sable-20/monkey-golang/token"
+	"../token"
 )
 
 type BlockStatement struct {
