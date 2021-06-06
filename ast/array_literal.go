@@ -1,7 +1,7 @@
 package ast
 
 import (
-	"../token"
+	"github.com/Sable-20/monkey-golang/token"
 	"bytes"
 	"strings"
 )
