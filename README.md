@@ -4,4 +4,6 @@ This is a programming language built with golang, its follow and making improvem
 
 This is very much in progress and may be slow but I will be pushing files.
 
+PS: this is in golang 1.12.9, I will be attempting to update this later
+
 ~Sable
